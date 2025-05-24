@@ -1,5 +1,3 @@
-# Hey, I'm Atul 👋
-
 Currently pursuing my M.S. in Data Science at Boston University. I build machine learning models that actually behave and visualizations that speak louder than words.
 
 This site is a living portfolio where I flex:
